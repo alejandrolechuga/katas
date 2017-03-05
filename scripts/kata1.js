@@ -41,3 +41,15 @@ function list(names) {
   
   return string;
 }
+
+// Second try
+function list(names) {
+  if (names.length === 0) return '';
+  return names
+    .map((item) => item.name)
+    .reduce(function (acc, current, index, array) {
+      var lastIndex = array.length - 1;
+      var separator = (index > 0 && index < lastIndex) ? ', ' : ' & ';
+      return acc + separator + current;
+  });
+}
