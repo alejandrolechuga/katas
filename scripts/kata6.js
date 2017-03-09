@@ -49,4 +49,23 @@ var sum_pairs=function(ints, s){
   return result;
 }
 
+// O(n)
+function sumequal(array, sum ) {
+  var i = 0;
+  var j = i + 1;
+  var length = array.length;
+  var keep = true;
+
+  while (keep) {
+    if (array[i] + array[j] === sum) {
+      return [array[i],array[j]]
+    }
+    else if (i + 1 < j) { i++; } 
+    else if (j + 1 < length) { j++; i = 0; } 
+    else { keep = false; };
+  }
+  return null;
+}
+
 //TODO: look for O(n) solution
+// not yet performant
