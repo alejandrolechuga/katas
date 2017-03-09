@@ -66,6 +66,21 @@ function sumequal(array, sum ) {
   }
   return null;
 }
+// recursive 
+function sum_pairs(array, sum) {
+ var i = 0
+  var j = i + 1;
+  function recsumeq(array, sum, i, j) {
+    if (array[i] + array[j] == sum) {
+      return [array[i],array[j]];
+    } else if (i + 1 < j) {
+      return recsumeq(array, sum, i+1, j);
+    } else if (j + 1 < array.length) {
+      return recsumeq(array, sum, 0, j+1);
+    } else return null;
+  }
+  return recsumeq(array,sum, i, j);
+}
 
 //TODO: look for O(n) solution
 // not yet performant
