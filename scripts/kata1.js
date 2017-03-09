@@ -18,7 +18,7 @@ list([])
 // returns ''
 
 **/
-
+// First try.
 function list(names) {
   var string; 
   var last;
@@ -42,7 +42,7 @@ function list(names) {
   return string;
 }
 
-// Second try
+// Second Try
 function list(names) {
   if (names.length === 0) return '';
   return names
