@@ -6,4 +6,5 @@
 5 [Longest String in Consecutive k strings from array ](scripts/kata5.js)   
 6 [Sum of Pairs](scripts/kata6.js) WIP for `O(n)` solution  
 7 [Limit string length - 1](scripts/kata7.js)  
+8 [Has pair sum](scrupts/kata8.js)
 Some katas I did in codewars
