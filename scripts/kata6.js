@@ -82,5 +82,13 @@ function sum_pairs(array, sum) {
   return recsumeq(array,sum, i, j);
 }
 
-//TODO: look for O(n) solution
-// not yet performant
+// fastest solution 
+// store the compliment you are looking for in this case is sum - array[i], if this value exists in the map then return the pair
+var sum_pairs = function(array, sum){
+  var map = {};
+  for (var i  = 0, length = array.length; i < length; i++) {
+    if (array[i] in map) return [array[map[array[i]]], array[i]];
+    map[sum - array[i]] = i;
+  } 
+  return null;
+}
