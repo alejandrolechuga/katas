@@ -7,6 +7,6 @@
 6 [Sum of Pairs](scripts/kata6.js)  
 7 [Limit string length - 1](scripts/kata7.js)   
 8 [Has pair sum](scripts/kata8.js)   
-9 [No oddities here](scripts/kata9.js)
-10 [Replace With Alphabet Position](scripts/kata10.js)
+9 [No oddities here](scripts/kata9.js)  
+10 [Replace With Alphabet Position](scripts/kata10.js)  
 Some katas I did in codewars
