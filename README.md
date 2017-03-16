@@ -13,6 +13,7 @@
 10 [Replace With Alphabet Position](scripts/kata10.js)  
 
 
+
 ### hackerrank submissions 
 1 [Simple array sum](scripts/hackerrank1.js)  
 2 [Comparision two triplets](scripts/hackerrank2.js)  
@@ -20,6 +21,7 @@
 4 [Sum NxN Matrix Diagonals](scripts/hackerank4.js)  
 5 [Array fractions of Positives, Negatives and Zeroes](scripts/hackerrank5.js)  
 6 [Staircase](scripts/hackerrank6.js)
+7 [Get array numbers Min and Max](scripts/hackerrank7.js)
 
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)
