@@ -20,4 +20,7 @@
 4 [Sum NxN Matrix Diagonals](scripts/hackerank4.js)  
 5 [Array fractions of Positives, Negatives and Zeroes](scripts/hackerrank5.js)  
 
+### helpers 
+[repeat string (n) times](scrits/helper1.js)
+
 codewars, hackerrank problems.
