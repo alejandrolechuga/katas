@@ -20,7 +20,7 @@
 3 [Large array sum](scripts/hackerrank3.js)   
 4 [Sum NxN Matrix Diagonals](scripts/hackerank4.js)  
 5 [Array fractions of Positives, Negatives and Zeroes](scripts/hackerrank5.js)  
-6 [Staircase](scripts/hackerrank6.js)
+6 [Staircase](scripts/hackerrank6.js)  
 7 [Get array numbers Min and Max](scripts/hackerrank7.js)
 
 ### helpers 
