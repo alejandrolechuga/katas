@@ -14,7 +14,7 @@
 
 
 ### hackerrank submissions 
-1 [Simple Array Sum](scripts/hackerrank1.js)  
-
+1 [Simple array sum](scripts/hackerrank1.js)  
+2 [Comparision two triplets](scripts/hackerrank2.js)  
 
 codewars, hackerrank problems.
