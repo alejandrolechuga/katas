@@ -17,4 +17,5 @@
 1 [Simple array sum](scripts/hackerrank1.js)  
 2 [Comparision two triplets](scripts/hackerrank2.js)  
 3 [Large array sum](scripts/hackerrank3.js)   
+4 [Sum NxN Matrix Diagonals](scripts/hackerank4.js)  
 codewars, hackerrank problems.
