@@ -19,6 +19,7 @@
 3 [Large array sum](scripts/hackerrank3.js)   
 4 [Sum NxN Matrix Diagonals](scripts/hackerank4.js)  
 5 [Array fractions of Positives, Negatives and Zeroes](scripts/hackerrank5.js)  
+6 [Staircase](scripts/hackerrank6.js)
 
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)
