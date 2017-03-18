@@ -35,6 +35,6 @@ function format24(time) {
   meridiem = match[match.length - 1];
   match[0] = parseInt(match[0]) < 12 && meridiem === 'PM' ? parseInt(match[0]) + 12 : match[0];
   match[0] = parseInt(match[0]) === 12 && meridiem === 'AM' ? '00' : match[0];
-  match[0] = parseInt(match[0]) === 12 && meridiem === 'PM' ? '12' : match[0];
+  // not needed // match[0] = parseInt(match[0]) === 12 && meridiem === 'PM' ? '12' : match[0];
   return match.slice(0, match.length - 1).join(':');
 }
