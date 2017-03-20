@@ -23,6 +23,8 @@
 6 [Staircase](scripts/hackerrank6.js)  
 7 [Get array numbers Min and Max](scripts/hackerrank7.js)  
 8 [Time Conversion](scripts/hackerrank8.js)  
+9 [Round grades](scripts/hackerrank9.js)  
+
 
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)
