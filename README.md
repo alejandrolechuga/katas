@@ -24,6 +24,7 @@
 7 [Get array numbers Min and Max](scripts/hackerrank7.js)  
 8 [Time Conversion](scripts/hackerrank8.js)  
 9 [Round grades](scripts/hackerrank9.js)  
+10 [Apple and Oranges](scripts/hackerrank10.js) 
 
 ### facebook js excersices
 1 [flatten array](scripts/facebook1.js)
