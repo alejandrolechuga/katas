@@ -11,6 +11,7 @@
 8 [Has pair sum](scripts/kata8.js)   
 9 [No oddities here](scripts/kata9.js)  
 10 [Replace With Alphabet Position](scripts/kata10.js)  
+11 [Filter smilies](scripts/kata11.js)
 
 
 
