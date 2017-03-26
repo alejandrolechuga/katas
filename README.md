@@ -29,6 +29,8 @@
 
 ### leetCode 
 1 [Find minimum distance in word array](scripts/leetCode1.js)
+2 [Filter out duplicates from array](script/leetCode2.js)
+
 ### facebook js excersices
 1 [flatten array](scripts/facebook1.js)
 
