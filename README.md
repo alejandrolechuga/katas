@@ -25,16 +25,16 @@
 7 [Get array numbers Min and Max](scripts/hackerrank7.js)  
 8 [Time Conversion](scripts/hackerrank8.js)  
 9 [Round grades](scripts/hackerrank9.js)  
-10 [Apple and Oranges](scripts/hackerrank10.js) 
+10 [Apple and Oranges](scripts/hackerrank10.js)  
 
 ### leetCode 
-1 [Find minimum distance in word array](scripts/leetCode1.js)
-2 [Filter out duplicates from array](script/leetCode2.js)
+1 [Find minimum distance in word array](scripts/leetCode1.js)  
+2 [Filter out duplicates from array](script/leetCode2.js)  
 
 ### facebook js excersices
-1 [flatten array](scripts/facebook1.js)
+1 [flatten array](scripts/facebook1.js)  
 
 ### helpers 
-[repeat string (n) times](scripts/helper1.js)
+[repeat string (n) times](scripts/helper1.js)  
 
 codewars, hackerrank problems.
