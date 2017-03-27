@@ -26,6 +26,7 @@
 8 [Time Conversion](scripts/hackerrank8.js)  
 9 [Round grades](scripts/hackerrank9.js)  
 10 [Apple and Oranges](scripts/hackerrank10.js)  
+11 [Get number factors](scripts/hackerrank11.js)
 
 ### leetCode 
 1 [Find minimum distance in word array](scripts/leetCode1.js)  
