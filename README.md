@@ -36,6 +36,9 @@
 ### facebook js excersices
 1 [flatten array](scripts/facebook1.js)  
 
+### Random 
+1 [find repeated odd times](scripts/random1.js)
+
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)  
 
