@@ -2,6 +2,7 @@
 Givent an array of integers, there are some integers repeated even number of times and only one integer repeated odd number of times. Write a function that returns the odd one.
 
 [2,1,3,2,1] -> should return 3
+ [1,2,3,1,2,1,3] -> 1
 
 */
 
