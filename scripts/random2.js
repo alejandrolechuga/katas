@@ -22,3 +22,8 @@ function removeDumplicates(array) {
     }
   });
 }
+
+// solutuon 3 already to tricky (ES6)
+function removeDumplicates(array, map = {}) {
+  return array.filter((item) => item in map ? false : map[item] = true);
+}
