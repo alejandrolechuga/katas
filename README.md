@@ -39,6 +39,9 @@
 ### Random 
 1 [find repeated odd times](scripts/random1.js)
 
+### Lodash-replicate
+1 [Array chunk](lodash-replicate/chunk.js)  
+
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)  
 
