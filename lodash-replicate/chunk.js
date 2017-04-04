@@ -6,6 +6,23 @@
   Creates an array of elements split into groups the length of size. 
   If array can't split evenly, the final chunk will be in the remaining elements
   O(n) complexity
+  
+  Test 
+  
+  var testArray = ['a', 'b', 'c', 'd'];
+  chunk(testArray, 2) // => [['a', 'b'], ['c', 'd']]
+  chunk(testArray, 2) // => [['a', 'b', 'c'], ['d']]
+  
+  assert(JSON.stringify(chunk(testArray, 2)), JSON.stringify([['a', 'b'], ['c', 'd']]));
+  assert(JSON.stringify(chunk(testArray, 3)), JSON.stringify([['a', 'b', 'c'], ['d']]));
+
+  function assert(a, b) {
+    if (a === b) {
+      console.log('ASSERTION PASSED');
+    } else {
+      console.log('ASSERTION FAILED');
+    }
+  }
 */
 
 function chunk(array, size) {
