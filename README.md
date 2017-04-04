@@ -37,8 +37,8 @@
 1 [flatten array](scripts/facebook1.js)  
 
 ### Random 
-1 [find repeated odd times](scripts/random1.js)
-2 [removes duplicate integers and preserves order](scripts/random2.js)
+1 [find repeated odd times](scripts/random1.js)  
+2 [removes duplicate integers and preserves order](scripts/random2.js)  
 
 ### Lodash-replicate
 1 [Array chunk](lodash-replicate/chunk.js)  
