@@ -42,6 +42,7 @@
 
 ### Lodash-replicate
 1 [Array chunk](lodash-replicate/chunk.js)  
+2 [Array compact](lodash-replicate/compact.js)  
 
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)  
