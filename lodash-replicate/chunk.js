@@ -25,6 +25,7 @@
   }
 */
 
+// version 1
 function chunk(array, size) {
   // default to 1
   if ( typeof size !== 'number' ) {
@@ -54,3 +55,21 @@ function chunk(array, size) {
   
   return chunks;
 }
+
+// version 0  
+// slower because slice must doing another operations 
+
+function chunk (array, size) {
+  var length = array.length;
+  var i = 0;
+  var j = size;
+  var results = [];
+  
+  while(i < length) {
+    results.push(array.slice(i, j));
+    i = i + size;
+    j = i + size;
+  }
+  return results;
+}
+
