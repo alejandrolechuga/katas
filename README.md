@@ -44,6 +44,7 @@
 1 [Array chunk](lodash-replicate/chunk.js)  
 2 [Array compact](lodash-replicate/compact.js)  
 3 [Array concat](lodash-replicate/concat.js)  
+4 [Array difference](lodash-replicate/difference.js)  
 
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)  
