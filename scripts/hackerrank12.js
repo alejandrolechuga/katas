@@ -77,3 +77,17 @@ function reduceString(string) {
   }
   return string.length === 0 ? 'Empty String' : string;
 }
+
+
+function reduceString(string) {
+  var i = 0;
+  while (i + 1 < string.length) {
+    if (string[i] === string[i + 1]) {
+      string = string.substr(0, i) + string.substr(i + 2, string.length - 1);
+      i = 0;
+    } else {
+      i++;
+    }
+  }
+  return string.length === 0 ? 'Empty String' : string;
+}
