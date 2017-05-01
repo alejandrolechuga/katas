@@ -26,7 +26,7 @@
 8 [Time Conversion](scripts/hackerrank8.js)  
 9 [Round grades](scripts/hackerrank9.js)  
 10 [Apple and Oranges](scripts/hackerrank10.js)  
-11 [Get number factors](scripts/hackerrank11.js)
+11 [Get number factors](scripts/hackerrank11.js)  
 12 [Parse camelCase strings](scripts/hackerrank13.js) 
 
 ### leetCode 
