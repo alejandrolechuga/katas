@@ -47,6 +47,9 @@
 3 [Array concat](lodash-replicate/concat.js)  
 4 [Array difference](lodash-replicate/difference.js)  
 
+### code fights
+1 [Largest adjacent product](scripts/codeFights01.js)
+
 ### helpers 
 [repeat string (n) times](scripts/helper1.js)  
 
